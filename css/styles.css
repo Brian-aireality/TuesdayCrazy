@@ -1,0 +1,21 @@
+/* Brians quick styles 10-15/ */
+body {
+  background-color: #66ffff;
+}
+
+header {
+  background-color: gray;
+}
+
+h1 {
+  font-size: 30px;
+  margin: 10px,5px,10,15px;
+  padding: 15px;
+  text-decoration-color: red;
+
+}
+
+img {
+  height: 30%;
+  width: 30%;
+}
